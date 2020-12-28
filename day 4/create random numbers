@@ -1,0 +1,6 @@
+import random
+int=random.randint(1,10)
+print(int)
+float=random.random()
+print(float)
+float*6
